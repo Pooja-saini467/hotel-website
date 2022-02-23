@@ -15,9 +15,6 @@
 - It is multi page website
 - All images are hover and side menubar
 
-## screenshot
-<img src="">
-
 ## Demo
 
  
@@ -25,7 +22,7 @@
 
 ## Live Link
 - Live Url
-- Pooja-saini467()
+- Pooja-saini467(https://pooja-saini467.github.io/hotel-website/)
 
 
 ## My Process
