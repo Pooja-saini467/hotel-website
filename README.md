@@ -5,7 +5,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,7 +23,6 @@ https://user-images.githubusercontent.com/90523453/155367702-e83b16de-eaad-4c3a-
 
 
 ## Live Link
-- Live Url
 - Pooja-saini467(https://pooja-saini467.github.io/hotel-website/)
 
 
